@@ -1,0 +1,9 @@
+c:\users\dylan\documents\visual studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\WSE case study.deps.json
+c:\users\dylan\documents\visual studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\WSE case study.runtimeconfig.json
+c:\users\dylan\documents\visual studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\WSE case study.runtimeconfig.dev.json
+c:\users\dylan\documents\visual studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\WSE case study.dll
+c:\users\dylan\documents\visual studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\WSE case study.pdb
+c:\users\dylan\documents\visual studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\WSE case study.csprojResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\WSE case study.AssemblyInfo.cs
+c:\users\dylan\documents\visual studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\WSE case study.dll
+c:\users\dylan\documents\visual studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\WSE case study.pdb

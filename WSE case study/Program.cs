@@ -7,6 +7,7 @@ namespace WSE_case_study
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("first push?");
         }
     }
 }

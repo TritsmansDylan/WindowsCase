@@ -25,29 +25,29 @@ jobs:
       run: dotnet test --no-restore --verbosity normal
 
     - name: Build for Linux
-      run: dotnet publish -r linux-x64 --configuration ReleaseComplete
+      run: dotnet publish -r linux-x64 --configuration release
    
     - name: Build for Windows
-      run: dotnet publish -r win-x64 --configuration ReleaseComplete
+      run: dotnet publish -r win-x64 --configuration release
    
     - name: Upload artifact - Linux
       uses: actions/upload-artifact@v1.0.0
       with:
         name: WSE case study
-        path: WSE case study/bin/Release/netcoreapp3.1/linux-x64/publish/WSE case study
+        path: "WSE case study/bin/release/netcoreapp1.1/linux-x64/publish/WSE case study"
     
     - name: Upload artifact - Windows
       uses: actions/upload-artifact@v1.0.0
       with:
         name: WSE case study.exe
-        path: WSE case study/bin/Release/netcoreapp3.1/win-x64/publish/WSE case study.exe
+        path: "WSE case study/bin/release/netcoreapp1.1/win-x64/publish/WSE case study.exe"
    
     - name: Make Release
       uses: softprops/action-gh-release@v1
       if: startsWith(github.ref, 'refs/tags/')
       with:
         files: |
-          WSE case study/bin/Release/netcoreapp3.1/linux-x64/publish/WSE case study
-          WSE case study/bin/ReleaseComplete/netcoreapp3.1/win-x64/publish/WSE case study.exe
+          "WSE case study/bin/Release/netcoreapp1.1/linux-x64/publish/WSE case study"
+          "WSE case study/bin/Release/netcoreapp1.1/win-x64/publish/WSE case study.exe"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -45,7 +45,7 @@ jobs:
     - name: Make Release
       uses: softprops/action-gh-release@v1
       with:
-        tag: ${{ github.run_id }}
+        tag_name: ${{ github.run_id }}
         files: |
           "WSE case study/bin/Release/netcoreapp3.1/linux-x64/publish/WSE case study"
           "WSE case study/bin/Release/netcoreapp3.1/win-x64/publish/WSE case study.exe"

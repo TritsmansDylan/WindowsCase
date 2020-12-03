@@ -8,6 +8,7 @@ namespace WSE_case_study
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("first push?");
+            Console.WriteLine("YES IT WORKS");
             Console.ReadLine();
         }
     }

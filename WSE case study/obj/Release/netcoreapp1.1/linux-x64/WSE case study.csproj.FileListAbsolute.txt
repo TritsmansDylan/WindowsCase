@@ -1,0 +1,12 @@
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\linux-x64\WSE case study.deps.json
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\linux-x64\WSE case study.runtimeconfig.json
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\linux-x64\WSE case study.runtimeconfig.dev.json
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\linux-x64\WSE case study.dll
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\bin\Release\netcoreapp1.1\linux-x64\WSE case study.pdb
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\linux-x64\WSE case study.csprojAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\linux-x64\WSE case study.AssemblyInfoInputs.cache
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\linux-x64\WSE case study.AssemblyInfo.cs
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\linux-x64\WSE case study.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\linux-x64\WSE case study.dll
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\linux-x64\WSE case study.pdb
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\WSE case study\WSE case study\obj\Release\netcoreapp1.1\linux-x64\WSE case study.genruntimeconfig.cache

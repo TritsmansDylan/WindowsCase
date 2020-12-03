@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dylan\\Documents\\Visual Studio 2017\\Projects\\WSE case study\\WSE case study\\WSE case study.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dylan\\Documents\\Visual Studio 2017\\Projects\\WSE case study\\WSE case study\\WSE case study.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dylan\\Documents\\Visual Studio 2017\\Projects\\WSE case study\\WSE case study\\WSE case study.csproj",
+        "projectName": "WSE case study",
+        "projectPath": "C:\\Users\\Dylan\\Documents\\Visual Studio 2017\\Projects\\WSE case study\\WSE case study\\WSE case study.csproj",
+        "packagesPath": "C:\\Users\\Dylan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dylan\\Documents\\Visual Studio 2017\\Projects\\WSE case study\\WSE case study\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dylan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.13, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
